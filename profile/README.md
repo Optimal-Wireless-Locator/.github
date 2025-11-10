@@ -34,7 +34,7 @@ As a general concept, an Indoor Positioning System (IPS) like OWL is typically c
 This organization hosts the different components of the OWL ecosystem. Specific implementation details are contained within each repository.
 
 * **[demo-1.0](https://github.com/Optimal-Wireless-Locator/demo-1.0):** The first functional, end-to-end demonstration (v1.0) of the OWL system. This repository contains the specific implementation and source code for our v1.0 build (Server, Client, and Firmware).
-* **[connections](https://github.com/Optimal-Wireless-Locator/connections):** A repository detailing team member profiles, contributions, and professional networks.
+* **[connections](https://github.com/Optimal-Wireless-Locator/connections):** A repository with team member profiles.
 
 ## 4. The Team
 
